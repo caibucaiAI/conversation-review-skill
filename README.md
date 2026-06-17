@@ -12,6 +12,19 @@ Skill 名称：`talk-a-little-bit-more`
 
 ---
 
+## AI Ping 邀请码
+
+如果你在用大模型 API，或者想对比不同模型服务的速度、稳定性和价格，可以试试 AI Ping。
+
+AI Ping 是一个大模型服务评测与调用相关平台，可以用来查看模型服务表现，也可以作为统一入口接入不同模型。
+
+用我的邀请码注册，可以领取 **20 元 token 额度**：
+
+- 邀请码：`CHAPAENQBE`
+- 邀请链接：[https://aiping.cn/#?channel_partner_code=CHAPAENQBE](https://aiping.cn/#?channel_partner_code=CHAPAENQBE)
+
+---
+
 ## 你可以怎么叫它
 
 你不需要记命令，直接这样说就行：
