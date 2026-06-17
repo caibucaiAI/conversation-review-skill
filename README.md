@@ -184,23 +184,8 @@ D. 你还不确定，我先帮你生成一版，之后再决定存哪里
 ## 文件说明
 
 - `SKILL.md`：skill 主体说明
-- `run_example.py`：可选脚本，用 OpenAI 兼容接口处理较长逐字稿
-- `requirements.txt`：可选脚本依赖
+- `assets/how-to-use.png`：使用说明图
 - `.gitignore`：避免把私人逐字稿、输出结果和环境文件传到公开仓库
-
----
-
-## 可选脚本用法
-
-如果你想用脚本处理一份本地逐字稿：
-
-```bash
-pip install -r requirements.txt
-export OPENAI_API_KEY="your_api_key"
-python run_example.py transcript.txt
-```
-
-脚本只是可选辅助；正常使用 skill 不需要跑脚本。
 
 ---
 
